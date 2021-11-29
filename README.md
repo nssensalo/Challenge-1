@@ -1,3 +1,3 @@
 # Microlending loan application
 
-## Automates tasks invloved in valuing microlending loans.  
+## Automates tasks involved in valuing microlending loans.  
